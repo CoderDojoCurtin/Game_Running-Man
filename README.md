@@ -1,4 +1,14 @@
-# Game_Running-Man
+# Game Running Man
+
+## Parts
+* Arduino + USB Cable
+* Jumper Wires
+* Beadboard
+* Push Button x 2
+* 19k Resistors x 2
+* 16x2 LCD
+* 10k Pot
+* Buzzer
 
 ## Wiring:
 Arduino +5V to breadboard power bus  
