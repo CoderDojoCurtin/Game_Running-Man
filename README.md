@@ -16,3 +16,5 @@
     -V0 to potentiometer output, for brightness, potentiometer is connected to +5V and ground
     -VDD to +5V
     -VSS to ground
+
+![schematic](https://github.com/CoderDojoCurtin/Game_Running-Man/blob/master/hillrun2finalfritzing_myKzA6IrTK%5B1%5D.png)
